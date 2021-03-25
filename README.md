@@ -1,2 +1,2 @@
-# JS_Data_Structures_-_Algorithms
+# JS_Data_Structures_&_Algorithms
  
